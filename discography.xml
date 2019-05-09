@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+  <info>
+    <topic>Music collection</topic>
+    <authors>
+      <person id="id_210231">
+        <name>Szymon</name>
+        <surname>Koziarski</surname>
+      </person>
+    </authors>
+    <modified day="9" month="October" year="2019" person="id_210231"/>
+  </info>
+  <artists>
+    <artist artistId="THE_WEEKND_00">
+      <name>The Weeknd</name>
+    </artist>
+    <artist artistId="DRAKE_00">
+      <name>Drake</name>
+    </artist>
+    <artist artistId="MICHAEL_BUBLE_00">
+      <name>Michael Bublé</name>
+    </artist>
+    <artist artistId="FRANK_SINATRA_00">
+      <name>Frank Sinatra</name>
+    </artist>
+    <artist artistId="JOHN_COLTRANE_00">
+      <name>John Coltrane</name>
+    </artist>
+    <artist artistId="HERBIE_HANCOCK_00">
+      <name>Herbie Hancock</name>
+    </artist>
+    <artist artistId="THELONIOUS_MONK_00">
+      <name>Thelonious Monk</name>
+    </artist>
+    <artist artistId="LOUIS_ARMSTRING_00">
+      <name>Louis Armstrong</name>
+    </artist>
+    <artist artistId="BRECKER_BROTHERS_00">
+      <name>Brecker Brothers</name>
+    </artist>
+    <artist artistId="STAN_GETZ_00">
+      <name>Stan Getz</name>
+    </artist>
+  </artists>
+  <genres>
+    <genre type="RAP" genreName="Rap"/>
+    <genre type="POP" genreName="Pop"/>
+    <genre type="HIPHOP" genreName="Hip Hop"/>
+    <genre type="TRAP" genreName="Trap"/>
+    <genre type="SWING" genreName="Swing"/>
+    <genre type="JAZZ" genreName="Jazz"/>
+    <genre type="FUNK" genreName="Funk"/>
+  </genres>
+  <catalog>
+    <cd id="p1" author="id_210231">
+      <title>House of Balloons</title>
+      <artistInfo artistId="THE_WEEKND_00"/>
+      <songs>
+        <song title="High for This" length="4:07"/>
+        <song title="What You Need" length="3:26"/>
+        <song title="House of Balloons / Glass Table Girls" length="6:47"/>
+        <song title="The Morning" length="5:15"/>
+        <song title="Wicked Games" length="5:25"/>
+        <song title="The Party &amp; The After Party" length="7:39"/>
+        <song title="Coming Down" length="4:55"/>
+        <song title="Loft Music" length="6:04"/>
+        <song title="The Knowing" length="5:41"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/House_of_Balloons">
+            House of Balloons is the debut mixtape by Canadian singer The Weeknd. It was released as a free download on March 21, 2011, by XO.
+        </description>
+      <genreInfo type="RAP"/>
+      <released>21 March 2011</released>
+      <score value="4.0"/>
+      <price currency="PLN">39.99</price>
+    </cd>
+    <cd id="p2" author="id_210231">
+      <title>Thursday</title>
+      <artistInfo artistId="THE_WEEKND_00"/>
+      <songs>
+        <song title="Lonely Star" length="5:49"/>
+        <song title="Life of the Party" length="4:57"/>
+        <song title="Thursday" length="5:19"/>
+        <song title="The Zone" length="6:58"/>
+        <song title="The Birds Part 1" length="3:34"/>
+        <song title="The Birds Part 2" length="5:50"/>
+        <song title="Gone" length="8:07"/>
+        <song title="Rolling Stone" length="3:50"/>
+        <song title="Heaven or Las Vegas" length="5:53"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Thursday_(album)">
+            Thursday is the second mixtape by Canadian singer The Weeknd, independently released on August 18, 2011. It follows his critically acclaimed, Polaris Music Prize-nominated debut mixtape House of Balloons (2011).
+        </description>
+      <genreInfo type="RAP"/>
+      <released>16 November 2012</released>
+      <score value="4.0"/>
+      <price currency="PLN">49.99</price>
+    </cd>
+    <cd id="p3" author="id_210231">
+      <title>Echoes of Silence</title>
+      <artistInfo artistId="THE_WEEKND_00"/>
+      <songs>
+        <song title="D.D." length="4:35"/>
+        <song title="Montreal" length="4:10"/>
+        <song title="Outside" length="4:20"/>
+        <song title="XO / The Host" length="7:23"/>
+        <song title="Initiation" length="4:20"/>
+        <song title="Same Old Song" length="5:12"/>
+        <song title="The Fall" length="5:45"/>
+        <song title="Next" length="6:00"/>
+        <song title="Echoes of Silence" length="4:02"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Echoes_of_Silence">
+            Echoes of Silence is the third mixtape by Canadian singer The Weeknd, released on December 21, 2011, by his official website.The release follows his Polaris Music Prize-nominated debut release House of Balloons and his second mixtape Thursday, both released earlier the same year.
+        </description>
+      <genreInfo type="RAP"/>
+      <released>21 December 2011</released>
+      <score value="4.0"/>
+      <price currency="PLN">43.99</price>
+    </cd>
+    <cd id="p4" author="id_210231">
+      <title>Starboy</title>
+      <artistInfo artistId="THE_WEEKND_00"/>
+      <songs>
+        <song title="Starboy" length="3:50"/>
+        <song title="Party Monster" length="4:09"/>
+        <song title="False Alarm" length="3:40"/>
+        <song title="Reminder" length="3:38"/>
+        <song title="Rockin'" length="3:52"/>
+        <song title="Secrets" length="4:25"/>
+        <song title="True Colors" length="3:26"/>
+        <song title="Stargirl Interlude" length="1:51"/>
+        <song title="Sidewalks" length="3:51"/>
+        <song title="Six Feet Under" length="3:57"/>
+        <song title="Love to Lay" length="3:43"/>
+        <song title="A Lonely Night" length="3:40"/>
+        <song title="Attention" length="3:17"/>
+        <song title="Ordinary Life" length="3:41"/>
+        <song title="Nothing Without You" length="3:18"/>
+        <song title="All I Know" length="5:21"/>
+        <song title="Die for You" length="4:20"/>
+        <song title="I Feel It Coming" length="4:29"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Starboy_(album)">
+            Starboy is the third studio album by Canadian singer The Weeknd. It was released on November 25, 2016, by Republic Records and XO.
+        </description>
+      <genreInfo type="RAP"/>
+      <released>25 November 2016</released>
+      <score value="3.5"/>
+      <price currency="PLN">39.99</price>
+    </cd>
+    <cd id="p5" author="id_210231">
+      <title>Views</title>
+      <artistInfo artistId="DRAKE_00"/>
+      <songs>
+        <song title="Keep the Family Close" length="5:28"/>
+        <song title="9" length="4:15"/>
+        <song title="U with Me?" length="4:57"/>
+        <song title="Feel No Ways" length="4:00"/>
+        <song title="Hype" length="3:29"/>
+        <song title="Weston Road Flows" length="4:13"/>
+        <song title="Redemption" length="5:33"/>
+        <song title="With You" length="3:15"/>
+        <song title="Faithful" length="4:50"/>
+        <song title="Still Here" length="3:09"/>
+        <song title="Controlla" length="4:05"/>
+        <song title="One Dance" length="2:54"/>
+        <song title="Grammys" length="3:40"/>
+        <song title="Childs Play" length="4:01"/>
+        <song title="Pop Style" length="3:32"/>
+        <song title="Too Good" length="4:23"/>
+        <song title="Summers Over Interlude" length="1:46"/>
+        <song title="Fire &amp; Desire" length="3:58"/>
+        <song title="Views" length="5:11"/>
+        <song title="Hotline Bling" length="4:27"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Views_(album)">
+            Views is the fourth studio album by Canadian rapper Drake. It was released on April 29, 2016, by Cash Money Records, Republic Records and Young Money Entertainment.
+        </description>
+      <genreInfo type="POP"/>
+      <released>29 April 2016</released>
+      <score value="4.0"/>
+      <price currency="PLN">49.99</price>
+    </cd>
+    <cd id="p6" author="id_210231">
+      <title>If You're Reading This It's Too Late</title>
+      <artistInfo artistId="DRAKE_00"/>
+      <songs>
+        <song title="Legend" length="4:01"/>
+        <song title="Energy" length="3:01"/>
+        <song title="10 Bands" length="2:57"/>
+        <song title="Know Yourself" length="4:35"/>
+        <song title="No Tellin'" length="5:10"/>
+        <song title="Madonna" length="4:08"/>
+        <song title="6 God" length="3:00"/>
+        <song title="Star67" length="4:55"/>
+        <song title="Preach" length="3:56"/>
+        <song title="Wednesday Night Interlude" length="3:32"/>
+        <song title="Used To" length="4:28"/>
+        <song title="6 Man" length="2:47"/>
+        <song title="Now &amp; Forever" length="4:41"/>
+        <song title="Company" length="4:12"/>
+        <song title="You &amp; the 6" length="4:24"/>
+        <song title="Jungle" length="5:20"/>
+        <song title="6PM in New York" length="4:43"/>
+        <song title="How About Now" length="3:55"/>
+        <song title="My Side" length="4:40"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/If_You%27re_Reading_This_It%27s_Too_Late">
+            If You're Reading This It's Too Late is a commercial mixtape by Canadian rapper Drake. It was released through the iTunes Store without prior announcement on February 13, 2015, by Cash Money Records.
+        </description>
+      <genreInfo type="TRAP"/>
+      <released>13 February 2015</released>
+      <score value="4.0"/>
+      <price currency="PLN">39.99</price>
+    </cd>
+    <cd id="p7" author="id_210231">
+      <title>More Life</title>
+      <artistInfo artistId="DRAKE_00"/>
+      <songs>
+        <song title="Free Smoke" length="3:38"/>
+        <song title="No Long Talk" length="2:29"/>
+        <song title="Passionfruit" length="4:58"/>
+        <song title="Jorja Interlude" length="1:48"/>
+        <song title="Get It Together" length="4:10"/>
+        <song title="Madiba Riddim" length="3:25"/>
+        <song title="Blem" length="3:36"/>
+        <song title="4422" length="3:06"/>
+        <song title="Gyalchester" length="3:09"/>
+        <song title="Skepta Interlude" length="2:23"/>
+        <song title="Portland" length="3:56"/>
+        <song title="Sacrifices" length="5:07"/>
+        <song title="Nothings into Somethings" length="2:34"/>
+        <song title="Teenage Fever" length="3:39"/>
+        <song title="KMT" length="2:42"/>
+        <song title="Lose You" length="5:05"/>
+        <song title="Can't Have Everything" length="3:48"/>
+        <song title="Glow" length="3:26"/>
+        <song title="Since Way Back" length="6:08"/>
+        <song title="Fake Love" length="3:30"/>
+        <song title="Ice Melts" length="4:10"/>
+        <song title="Do Not Disturb" length="4:44"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/More_Life">
+            More Life is a commercial mixtape by Canadian rapper Drake. Described and marketed as a playlist, some publications have referred to it as a mixtape.
+        </description>
+      <genreInfo type="HIPHOP"/>
+      <released>18 March 2017</released>
+      <score value="4.0"/>
+      <price currency="PLN">39.99</price>
+    </cd>
+    <cd id="p8" author="id_210231">
+      <title>Christmas</title>
+      <artistInfo artistId="MICHAEL_BUBLE_00"/>
+      <songs>
+        <song title="It's Beginning to Look a Lot Like Christmas" length="3:26"/>
+        <song title="Santa Claus Is Coming to Town" length="2:51"/>
+        <song title="Jingle Bells" length="2:39"/>
+        <song title="White Christmas" length="3:36"/>
+        <song title="All I Want for Christmas Is You" length="2:51"/>
+        <song title="A Holly Jolly Christmas" length="1:59"/>
+        <song title="Santa Baby" length="3:51"/>
+        <song title="Have Yourself a Merry Little Christmas" length="3:50"/>
+        <song title="Christmas (Baby Please Come Home)" length="3:07"/>
+        <song title="Silent Night" length="3:47"/>
+        <song title="Blue Christmas" length="3:41"/>
+        <song title="Cold December Night" length="3:18"/>
+        <song title="I'll Be Home for Christmas" length="4:24"/>
+        <song title="Ave Maria" length="4:00"/>
+        <song title="Mis Deseos/Feliz Navidad" length="4:24"/>
+        <song title="Michael's Christmas Greeting" length="0:05"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Christmas_(Michael_Bubl%C3%A9_album)">
+            Christmas is the seventh studio album and fifth major label studio album released by Canadian singer Michael Bublé. The album was released on October 21, 2011 in Ireland, October 24, 2011 in the United Kingdom, and October 25, 2011 in the United States.
+        </description>
+      <genreInfo type="SWING"/>
+      <released>24 October 2011</released>
+      <score value="4.0"/>
+      <price currency="PLN">29.99</price>
+    </cd>
+    <cd id="p9" author="id_210231">
+      <title>Songs for Swingin' Lovers!</title>
+      <artistInfo artistId="FRANK_SINATRA_00"/>
+      <songs>
+        <song title="You Make Me Feel So Young" length="2:57"/>
+        <song title="It Happened in Monterey" length="2:36"/>
+        <song title="You're Getting to Be a Habit with Me" length="2:19"/>
+        <song title="You Brought a New Kind of Love to Me" length="2:48"/>
+        <song title="Too Marvelous for Words" length="2:29"/>
+        <song title="Old Devil Moon" length="3:56"/>
+        <song title="Pennies from Heaven" length="2:44"/>
+        <song title="Love Is Here to Stay" length="2:42"/>
+        <song title="I've Got You Under My Skin" length="3:43"/>
+        <song title="I Thought About You" length="2:30"/>
+        <song title="We'll Be Together Again" length="4:26"/>
+        <song title="Makin' Whoopee" length="3:06"/>
+        <song title="Swingin' Down the Lane" length="2:54"/>
+        <song title="Anything Goes" length="2:43"/>
+        <song title="How About You?" length="2:45"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Songs_for_Swingin%27_Lovers!">
+            Songs for Swingin' Lovers! is the tenth album by American singer Frank Sinatra and his fourth for Capitol Records. It was arranged by Nelson Riddle and released in March 1956 on LP and January 1987 on CD.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>20 January 1987</released>
+      <score value="4.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p10" author="id_210231">
+      <title>Come Fly with Me</title>
+      <artistInfo artistId="FRANK_SINATRA_00"/>
+      <songs>
+        <song title="Come Fly with Me" length="3:19"/>
+        <song title="Around the World" length="3:20"/>
+        <song title="Isle of Capri" length="2:29"/>
+        <song title="Moonlight in Vermont" length="3:32"/>
+        <song title="Autumn in New York" length="4:37"/>
+        <song title="On the Road to Mandalay" length="3:28"/>
+        <song title="Let's Get Away from It All" length="2:11"/>
+        <song title="April in Paris" length="2:50"/>
+        <song title="London by Night" length="3:30"/>
+        <song title="Brazil" length="2:55"/>
+        <song title="Blue Hawaii" length="2:44"/>
+        <song title="It's Nice to Go Trav'ling" length="3:52"/>
+        <song title="Chicago (That Toddlin' Town)" length="2:14"/>
+        <song title="South of the Border" length="2:50"/>
+        <song title="I Love Paris" length="1:49"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Come_Fly_with_Me_(Frank_Sinatra_album)">
+            Come Fly with Me is an album by American singer Frank Sinatra, released in 1958.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>6 January 1958</released>
+      <score value="5.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p11" author="id_210231">
+      <title>Songs for Young Lovers</title>
+      <artistInfo artistId="FRANK_SINATRA_00"/>
+      <songs>
+        <song title="My Funny Valentine" length="2:31"/>
+        <song title="The Girl Next Door" length="2:38"/>
+        <song title="A Foggy Day" length="2:39"/>
+        <song title="Like Someone in Love" length="3:10"/>
+        <song title="I Get a Kick Out of You" length="2:55"/>
+        <song title="Little Girl Blue" length="2:54"/>
+        <song title="They Can't Take That Away from Me" length="1:58"/>
+        <song title="Violets for Your Furs" length="3:05"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Songs_for_Young_Lovers">
+            Songs for Young Lovers is the seventh studio album by Frank Sinatra and his first on Capitol Records. It was issued as an 8-song, 10" album (Capitol H-488) and as a 45rpm EP set, but it was the first Sinatra "album" not to have a 78rpm multi-disc-album release.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>5 November 1954</released>
+      <score value="4.5"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p12" author="id_210231">
+      <title>Giant Steps</title>
+      <artistInfo artistId="JOHN_COLTRANE_00"/>
+      <songs>
+        <song title="Giant Steps" length="4:43"/>
+        <song title="Cousin Mary" length="5:45"/>
+        <song title="Countdown" length="2:21"/>
+        <song title="Spiral" length="5:56"/>
+        <song title="Syeeda's Song Flute" length="7:00"/>
+        <song title="Naima" length="4:21"/>
+        <song title="Mr. P.C." length="6:57"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Giant_Steps">
+            Giant Steps is the fifth studio album by jazz musician John Coltrane as leader, released in 1960 on Atlantic Records, catalogue SD 1311.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>27 January 1960</released>
+      <score value="5.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p13" author="id_210231">
+      <title>My Favorite Things</title>
+      <artistInfo artistId="JOHN_COLTRANE_00"/>
+      <songs>
+        <song title="My Favorite Things" length="13:41"/>
+        <song title="Everytime We Say Goodbye" length="5:39"/>
+        <song title="Summertime" length="11:31"/>
+        <song title="But Not for Me" length="9:34"/>
+      </songs>
+      <description link="https://pl.wikipedia.org/wiki/My_Favorite_Things">
+            My Favorite Things is the seventh studio album by jazz musician John Coltrane, released in 1961 on Atlantic Records, catalogue SD-1361. It was the first album to feature Coltrane playing soprano saxophone.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>1 March 1961</released>
+      <score value="5.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p14" author="id_210231">
+      <title>Blue Train</title>
+      <artistInfo artistId="JOHN_COLTRANE_00"/>
+      <songs>
+        <song title="Blue Train" length="10:43"/>
+        <song title="Moment's Notice" length="9:10"/>
+        <song title="Locomotion" length="7:14"/>
+        <song title="I'm Old Fashioned" length="7:58"/>
+        <song title="Lazy Bird" length="7:00"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Blue_Train_(album)">
+            Blue Train is a studio album by John Coltrane, released in 1958 on Blue Note Records, catalogue BLP 1577. Recorded at the Van Gelder Studio in Hackensack, New Jersey.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>15 September 1957</released>
+      <score value="5.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p15" author="id_210231">
+      <title>The Imagine Project</title>
+      <artistInfo artistId="HERBIE_HANCOCK_00"/>
+      <songs>
+        <song title="Imagine" length="7:18"/>
+        <song title="Don't Give Up" length="7:26"/>
+        <song title="Tempo de Amor" length="4:41"/>
+        <song title="Space Captain" length="6:54"/>
+        <song title="The Times, They Are A' Changin'" length="8:04"/>
+        <song title="La Tierra" length="4:50"/>
+        <song title="Tamatant Tilay / Exodus" length="4:45"/>
+        <song title="Tomorrow Never Knows" length="5:21"/>
+        <song title="A Change Is Gonna Come" length="8:46"/>
+        <song title="The Song Goes On" length="7:48"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/The_Imagine_Project">
+            The Imagine Project is a studio album by American jazz pianist Herbie Hancock released on June 22, 2010.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>22 June 2010</released>
+      <score value="4.0"/>
+      <price currency="PLN">24.99</price>
+    </cd>
+    <cd id="p16" author="id_210231">
+      <title>Underground</title>
+      <artistInfo artistId="THELONIOUS_MONK_00"/>
+      <songs>
+        <song title="Thelonious" length="3:13"/>
+        <song title="Ugly Beauty" length="3:17"/>
+        <song title="Raise Four" length="5:47"/>
+        <song title="Boo Boo's Birthday" length="5:56"/>
+        <song title="Easy Street" length="5:53"/>
+        <song title="Green Chimneys" length="9:00"/>
+        <song title="In Walked Bud" length="4:17"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Underground_(Thelonious_Monk_album)">
+            Underground is a 1968 album by American jazz musician Thelonious Monk. It features Monk on piano, Larry Gales on bass, Charlie Rouse on tenor sax, and Ben Riley on drums.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>14 February 1968</released>
+      <score value="4.5"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p17" author="id_210231">
+      <title>Disney Songs the Satchmo Way</title>
+      <artistInfo artistId="LOUIS_ARMSTRING_00"/>
+      <songs>
+        <song title="Zip-a-Dee-Doo-Dah" length="2:22"/>
+        <song title="Ten Feet off the Ground" length="2:46"/>
+        <song title="Heigh-Ho" length="2:37"/>
+        <song title="Whistle While You Work" length="1:56"/>
+        <song title="Chim Chim Cher-ee" length="6:40"/>
+        <song title="Bibbidi-Bobbidi-Boo" length="2:08"/>
+        <song title="'Bout Time" length="2:53"/>
+        <song title="The Ballad of Davy Crockett" length="3:15"/>
+        <song title="The Bare Necessities" length="2:26"/>
+        <song title="When You Wish upon a Star" length="4:25"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Disney_Songs_the_Satchmo_Way">
+            Disney Songs the Satchmo Way is a 1968 album of music from Disney films by the trumpeter and singer Louis Armstrong and produced by Tutti Camarata.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>1 May 1968</released>
+      <score value="3.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+    <cd id="p18" author="id_210231">
+      <title>The Brecker Bros.</title>
+      <artistInfo artistId="BRECKER_BROTHERS_00"/>
+      <songs>
+        <song title="Some Skunk Funk" length="5:51"/>
+        <song title="Sponge" length="4:05"/>
+        <song title="A Creature of Many Faces" length="7:40"/>
+        <song title="Twilight" length="5:43"/>
+        <song title="Sneakin’ up Behind You" length="4:54"/>
+        <song title="Rocks" length="4:39"/>
+        <song title="Levitate" length="4:31"/>
+        <song title="Oh My Stars" length="3:13"/>
+        <song title="D.B.B" length="4:46"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/The_Brecker_Bros.">
+            The Brecker Bros. is the debut album by the American jazz fusion group, the Brecker Brothers. It was released by Arista Records in 1975.
+        </description>
+      <genreInfo type="FUNK"/>
+      <released>1 September 1975</released>
+      <score value="4.5"/>
+      <price currency="PLN">29.99</price>
+    </cd>
+    <cd id="p19" author="id_210231">
+      <title>Serenity</title>
+      <artistInfo artistId="STAN_GETZ_00"/>
+      <songs>
+        <song title="On Green Dolphin Street" length="13:38"/>
+        <song title="Voyage" length="12:05"/>
+        <song title="Falling in Love" length="9:05"/>
+        <song title="I Remember You" length="10:08"/>
+        <song title="I Love You" length="10:57"/>
+      </songs>
+      <description link="https://en.wikipedia.org/wiki/Serenity_(Stan_Getz_album)">
+            Serenity is a live album by saxophonist Stan Getz which was recorded at the Jazzhus Montmartre in 1987 and released on the EmArcy label in 1991.
+        </description>
+      <genreInfo type="JAZZ"/>
+      <released>6 July 1991</released>
+      <score value="4.0"/>
+      <price currency="PLN">19.99</price>
+    </cd>
+  </catalog>
+</music>

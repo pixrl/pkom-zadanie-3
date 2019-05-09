@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicCollection>
+   <information>
+      <data>
+         <numberOfAlbums>19</numberOfAlbums>
+         <numberOfRapSongs>4</numberOfRapSongs>
+         <numberOfPopSongs>1</numberOfPopSongs>
+         <numberOfHiphopSongs>1</numberOfHiphopSongs>
+         <numberOfTrapSongs>1</numberOfTrapSongs>
+         <numberOfSwingSongs>1</numberOfSwingSongs>
+         <numberOfJazzSongs>10</numberOfJazzSongs>
+         <numberOfFunkSongs>1</numberOfFunkSongs>
+         <highestPrice>49.99 PLN</highestPrice>
+         <lowestPrice>19.99 PLN</lowestPrice>
+         <reportDate>09.05.2019 19:39</reportDate>
+      </data>
+      <authorsOfDocument>
+         <person>Szymon Koziarski</person>
+      </authorsOfDocument>
+   </information>
+   <cd>
+      <title>Blue Train</title>
+      <artistInfo>John Coltrane</artistInfo>
+      <released>15 September 1957</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>5</songs>
+   </cd>
+   <cd>
+      <title>Christmas</title>
+      <artistInfo>Michael Bublé</artistInfo>
+      <released>24 October 2011</released>
+      <genreInfo>Swing</genreInfo>
+      <price>29.99 PLN</price>
+      <songs>16</songs>
+   </cd>
+   <cd>
+      <title>Come Fly with Me</title>
+      <artistInfo>Frank Sinatra</artistInfo>
+      <released>6 January 1958</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>15</songs>
+   </cd>
+   <cd>
+      <title>Disney Songs the Satchmo Way</title>
+      <artistInfo>Louis Armstrong</artistInfo>
+      <released>1 May 1968</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>10</songs>
+   </cd>
+   <cd>
+      <title>Echoes of Silence</title>
+      <artistInfo>The Weeknd</artistInfo>
+      <released>21 December 2011</released>
+      <genreInfo>Rap</genreInfo>
+      <price>43.99 PLN</price>
+      <songs>9</songs>
+   </cd>
+   <cd>
+      <title>Giant Steps</title>
+      <artistInfo>John Coltrane</artistInfo>
+      <released>27 January 1960</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>7</songs>
+   </cd>
+   <cd>
+      <title>House of Balloons</title>
+      <artistInfo>The Weeknd</artistInfo>
+      <released>21 March 2011</released>
+      <genreInfo>Rap</genreInfo>
+      <price>39.99 PLN</price>
+      <songs>9</songs>
+   </cd>
+   <cd>
+      <title>If You're Reading This It's Too Late</title>
+      <artistInfo>Drake</artistInfo>
+      <released>13 February 2015</released>
+      <genreInfo>Trap</genreInfo>
+      <price>39.99 PLN</price>
+      <songs>19</songs>
+   </cd>
+   <cd>
+      <title>More Life</title>
+      <artistInfo>Drake</artistInfo>
+      <released>18 March 2017</released>
+      <genreInfo>Hip Hop</genreInfo>
+      <price>39.99 PLN</price>
+      <songs>22</songs>
+   </cd>
+   <cd>
+      <title>My Favorite Things</title>
+      <artistInfo>John Coltrane</artistInfo>
+      <released>1 March 1961</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>4</songs>
+   </cd>
+   <cd>
+      <title>Serenity</title>
+      <artistInfo>Stan Getz</artistInfo>
+      <released>6 July 1991</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>5</songs>
+   </cd>
+   <cd>
+      <title>Songs for Swingin' Lovers!</title>
+      <artistInfo>Frank Sinatra</artistInfo>
+      <released>20 January 1987</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>15</songs>
+   </cd>
+   <cd>
+      <title>Songs for Young Lovers</title>
+      <artistInfo>Frank Sinatra</artistInfo>
+      <released>5 November 1954</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>8</songs>
+   </cd>
+   <cd>
+      <title>Starboy</title>
+      <artistInfo>The Weeknd</artistInfo>
+      <released>25 November 2016</released>
+      <genreInfo>Rap</genreInfo>
+      <price>39.99 PLN</price>
+      <songs>18</songs>
+   </cd>
+   <cd>
+      <title>The Brecker Bros.</title>
+      <artistInfo>Brecker Brothers</artistInfo>
+      <released>1 September 1975</released>
+      <genreInfo>Funk</genreInfo>
+      <price>29.99 PLN</price>
+      <songs>9</songs>
+   </cd>
+   <cd>
+      <title>The Imagine Project</title>
+      <artistInfo>Herbie Hancock</artistInfo>
+      <released>22 June 2010</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>24.99 PLN</price>
+      <songs>10</songs>
+   </cd>
+   <cd>
+      <title>Thursday</title>
+      <artistInfo>The Weeknd</artistInfo>
+      <released>16 November 2012</released>
+      <genreInfo>Rap</genreInfo>
+      <price>49.99 PLN</price>
+      <songs>9</songs>
+   </cd>
+   <cd>
+      <title>Underground</title>
+      <artistInfo>Thelonious Monk</artistInfo>
+      <released>14 February 1968</released>
+      <genreInfo>Jazz</genreInfo>
+      <price>19.99 PLN</price>
+      <songs>7</songs>
+   </cd>
+   <cd>
+      <title>Views</title>
+      <artistInfo>Drake</artistInfo>
+      <released>29 April 2016</released>
+      <genreInfo>Pop</genreInfo>
+      <price>49.99 PLN</price>
+      <songs>20</songs>
+   </cd>
+</musicCollection>
